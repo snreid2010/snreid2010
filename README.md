@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Sierra N. Reid
+## Hi there 👋 My name is Sierra N. Reid and I am an IT Professional
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
