@@ -1,19 +1,31 @@
-## Hi there 👋 My name is Sierra N. Reid and I am an IT Professional
-<h2>👨‍💻 Information Technology Projects:</h2>
+## Hi, I'm Sierra Reid (aka CoCo Jane)  
+**Cybersecurity | Tech-Savvy Leader | Award-Winning Singer-Songwriter**
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/snreid2010/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/snreid2010/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/snreid2010/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/snreid2010/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/snreid2010/azure-network-protocols)
+Welcome to my GitHub! I blend creativity with technical excellence—bringing both to cybersecurity, customer experience, and music.
 
-<h2>🤳Connect with me:</h2>
+## What I Do
+- **Cybersecurity & Fraud Analysis**
+  - Information Technology Certification from Course Careers
+  - Certified Customer Service Manager (CCSM), Six Sigma Yellow Belt
+  - Passionate about digital security, risk mitigation, and user protection
+- **Team Leadership & Customer Experience**
+  - 10+ years of high-performance team supervision at Asurion & Capital One
+  - Focused on team coaching, process improvement, and KPIs
+- **Creative Projects**
+  - Grammy-nominated vocalist on De La Soul’s *and the Anonymous Nobody*
+  - Artist name: *CoCo Jane* | [Instagram](https://instagram.com) | [Jones Luxury Transportation](https://your-site.com)
+
+## Projects
+- **[Cybersecurity Portfolio](#)** – Threat analysis reports, phishing simulations, risk assessments  
+- **[Customer Service Dashboards](#)** – KPI analytics and process improvement models  
+- **[CoCo Jane Music Projects](#)** – Audio demos, lyrics, and media kits  
+
+## Let’s Connect
+- **LinkedIn:** [linkedin.com/in/sierra-n-reid](#)
+- **Email:** reidsierran@gmail.com
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+> “Be so good they can’t ignore you.” – Steve Martin
 
-
-[linkedin]: https://www.linkedin.com/in/sierranreid/
