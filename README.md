@@ -1,5 +1,5 @@
 ## Hi, I'm Sierra Reid (aka CoCo Jane)  
-**Cybersecurity | Tech-Savvy Leader | Award-Winning Singer-Songwriter**
+** IT Specialist | Cybersecurity | Tech-Savvy Leader | Award-Winning Singer-Songwriter**
 
 Welcome to my GitHub! I blend creativity with technical excellence—bringing both to cybersecurity, customer experience, and music.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I blend creativity with technical excellence—bringing bo
   - Focused on team coaching, process improvement, and KPIs
 - **Creative Projects**
   - Grammy-nominated vocalist on De La Soul’s *and the Anonymous Nobody*
-  - Artist name: *CoCo Jane* | [Instagram](https://instagram.com) | [Jones Luxury Transportation](https://your-site.com)
+  - Artist name: *CoCo Jane* | [Instagram](https://instagram.com) 
 
 ## Projects
 - **[Cybersecurity Portfolio](#)** – Threat analysis reports, phishing simulations, risk assessments  
