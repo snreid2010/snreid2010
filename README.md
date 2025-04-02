@@ -4,7 +4,8 @@
 Welcome to my GitHub! I blend creativity with technical excellence—bringing both to cybersecurity, customer experience, and music.
 
 ## What I Do
-- **Cybersecurity & Fraud Analysis**
+- **
+**IT Specialist
   - Information Technology Certification from Course Careers
   - Certified Customer Service Manager (CCSM), Six Sigma Yellow Belt
   - Passionate about digital security, risk mitigation, and user protection
